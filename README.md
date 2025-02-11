@@ -1,1 +1,2 @@
-# react-sample-2
+# 01 react-project 
+SSF SHOP
